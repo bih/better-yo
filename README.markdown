@@ -10,7 +10,7 @@ One morning, I download the [Yo](http://justyo.co) Chrome extension and decompre
 - Performance improvements.
 - The UI is vastly improved to be more responsive and accounts for Rate limiting, invalid usernames and just beautifulness.
 
-The extension itself is live on the Google Chrome Websotre and [can be found here](https://chrome.google.com/webstore/detail/better-yo/hckkeplhmlafhhikfphkbcekphbngfcl).
+The extension itself is live on the Google Chrome Webstore and [can be found here](https://chrome.google.com/webstore/detail/better-yo/hckkeplhmlafhhikfphkbcekphbngfcl).
 
 Note: This version is far more improved even than the one on Chrome webstore. If you want the latest stable version, go download the version above. If you want the most bleeding edge version, `git clone` this repository and locally install it.
 
